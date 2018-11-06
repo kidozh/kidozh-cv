@@ -37,7 +37,7 @@ Xi'an, China (People's Republic of)
 
 ## Publications
 
-### [__基于卷积神经网络的刀具磨损在线监测__]()
+### [__In-process Tool Condition Monitoring Based on Convolution Neural Network__]()
 Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated Manufacturing Systems_ <br>
 [[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
 [[repo](https://github.com/kidozh/keras_detect_tool_wear)]
