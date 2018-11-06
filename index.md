@@ -16,14 +16,14 @@ pdf: true
 
 ### __Northwestern Polytechnical University__ `2017.9 -`
 ```
-Xi'an, SN, CN
+Xi'an, China (People's Republic of)
 ```
 - Master in Aerocraft Manufacturing Engineering, _School of Mechanical Engineering_
 - Major GPA: 85
 
 ### __Northwestern Polytechnical University__ `2013.9 - 2017.6`
 ```
-Xi'an, SN, CN
+Xi'an, China (People's Republic of)
 ```
 - B.S. in Aerocraft Manufacturing Engineering, _Honors College_
 - Major GPA :85
@@ -33,11 +33,11 @@ Xi'an, SN, CN
 52062 Aachen, Germany
 ```
 - Exchange student in Mechanical Engineering, _maschinenbau_
-- CSC Scholarship Award
+- Funded by China Scholarship Council
 
 ## Publications
 
-### [__基于卷积神经网络的刀具磨损在线监测__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### [__基于卷积神经网络的刀具磨损在线监测__]()
 Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated Manufacturing Systems_ <br>
 [[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
 [[repo](https://github.com/kidozh/keras_detect_tool_wear)]
