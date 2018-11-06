@@ -51,7 +51,7 @@ __Turbomachinery__, in mechanical engineering, describes machines that transfer 
 
 ## Honors & Awards
 
-Excellent student 'Shaanxi, 2017'<br>
+Excellent student `Shaanxi, 2017`<br>
 CSC Scholarship `Shaanxi, 2016` <br>
 University Award `Shaanxi, 2015` <br>
 Honors College Award `Shaanxi, 2014` <br>
