@@ -1,85 +1,60 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: CV of kidozh
 pdf: true
 ---
-# Wode __Ni__
+# Jiduo Zhang
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="http://kidozh.com" style="margin-left:0.5em">kidozh.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="kidozh@kidozh.com" style="margin-left:0.5em">kidozh@kidozh.com</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Northwestern Polytechnical University__ `2017.9 -`
 ```
-Pittsburgh, PA
+Xi'an, SN, CN
 ```
-- Ph.D. in Software Engineering
+- Master in Aerocraft Manufacturing Engineering, _School of Mechanical Engineering_
+- Major GPA: 85
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Northwestern Polytechnical University__ `2013.9 - 2017.6`
 ```
-New York, NY
+Xi'an, SN, CN
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Aerocraft Manufacturing Engineering, _Honors College_
+- Major GPA :85
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __RWTH-Aachen University__ `2013.9 - 2016.5`
 ```
-Carlisle, PA
+52062 Aachen, Germany
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Exchange student in Mechanical Engineering, _maschinenbau_
+- CSC Scholarship Award
 
 ## Publications
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+### [__基于卷积神经网络的刀具磨损在线监测__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated Manufacturing Systems_ <br>
+[[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
+[[repo](https://github.com/kidozh/keras_detect_tool_wear)]
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### __Peter the Great St.Petersburg Polytechnic University__  `2018.1 - 2018.2`
+_Turbomachinery Winter Camp_<br>
+__Turbomachinery__, in mechanical engineering, describes machines that transfer energy between a rotor and a fluid, including both turbines and compressors. While a turbine transfers energy from a fluid to a rotor, a compressor transfers energy from a rotor to a fluid.
 
 
 ## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Excellent student 'Shaanxi, 2017'<br>
+CSC Scholarship `Shaanxi, 2016` <br>
+University Award `Shaanxi, 2015` <br>
+Honors College Award `Shaanxi, 2014` <br>
 
 <!-- ### Footer
 
