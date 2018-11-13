@@ -27,7 +27,7 @@ Xi'an, China (People's Republic of)
 Xi'an, China (People's Republic of)
 ```
 - B.S. in Aerocraft Manufacturing Engineering, _Honors College_
-    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,*A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank *
+    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,*A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank*
 - Major GPA :85
 
 ### __RWTH-Aachen University__ `2013.9 - 2016.5`
@@ -53,7 +53,8 @@ __Turbomachinery__, in mechanical engineering, describes machines that transfer 
 
 ## Honors & Awards
 
-Excellent student `Shaanxi, 2017`<br>
+Northwestern Polytechnical University Graduate Creative Innovation Seed Fund 'Shaanxi, 2017'<br>
+Outstanding graduates `Shaanxi, 2017`<br>
 CSC Scholarship `Shaanxi, 2016` <br>
 University Award `Shaanxi, 2015` <br>
 Honors College Award `Shaanxi, 2014` <br>
