@@ -9,7 +9,7 @@ pdf: true
 <i class="fi-home" style="margin-left:1em"></i>
 <a href="http://kidozh.com" style="margin-left:0.5em">kidozh.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="kidozh@kidozh.com" style="margin-left:0.5em">kidozh@kidozh.com</a>
+<a href="kidozh@gmail.com" style="margin-left:0.5em">kidozh@gmail.com</a>
 </div>
 
 ## Education
@@ -19,6 +19,7 @@ pdf: true
 Xi'an, China (People's Republic of)
 ```
 - Master in Aerocraft Manufacturing Engineering, _School of Mechanical Engineering_
+- *Project 985*,*Project 211*,*Class A in Double First-Class University*,* A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank *
 - Major GPA: 85
 
 ### __Northwestern Polytechnical University__ `2013.9 - 2017.6`
@@ -26,6 +27,7 @@ Xi'an, China (People's Republic of)
 Xi'an, China (People's Republic of)
 ```
 - B.S. in Aerocraft Manufacturing Engineering, _Honors College_
+- *Project 985*,*Project 211*,*Class A in Double First-Class University*,* A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank *
 - Major GPA :85
 
 ### __RWTH-Aachen University__ `2013.9 - 2016.5`
