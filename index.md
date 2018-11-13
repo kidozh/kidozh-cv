@@ -19,7 +19,7 @@ pdf: true
 Xi'an, China (People's Republic of)
 ```
 - Master in Aerocraft Manufacturing Engineering, _School of Mechanical Engineering_
-    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,* A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank*
+    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,*A+ (Best) at aeronautical and astronautical science and technology subject in MOE rank*
 - Major GPA: 85
 
 ### __Northwestern Polytechnical University__ `2013.9 - 2017.6`
@@ -53,7 +53,7 @@ __Turbomachinery__, in mechanical engineering, describes machines that transfer 
 
 ## Honors & Awards
 
-Northwestern Polytechnical University Graduate Creative Innovation Seed Fund 'Shaanxi, 2017'<br>
+Northwestern Polytechnical University Graduate Creative Innovation Seed Fund `Shaanxi, 2017`<br>
 Outstanding graduates `Shaanxi, 2017`<br>
 CSC Scholarship `Shaanxi, 2016` <br>
 University Award `Shaanxi, 2015` <br>
