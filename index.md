@@ -60,6 +60,10 @@ _Intelligent manufacturing_<br>
 _Turbomachinery Winter Camp_<br>
 __Turbomachinery__, in mechanical engineering, describes machines that transfer energy between a rotor and a fluid, including both turbines and compressors. While a turbine transfers energy from a fluid to a rotor, a compressor transfers energy from a rotor to a fluid.
 
+### __Lightweighting Design, RWTH-Aachen__  `2014.9 - 2015.11`
+_SLA_<br>
+__bolts effects in composite material__, bolt's effect in bolted joint by ABAQUS is investigated. Hashin failure criteria is applied.
+
 ### __Dance Robot Inovation Club, NPU__  `2014.9 - 2015.11`
 _Computer Vision in Software Department_<br>
 __Computer Vision__, in basketball robot, aims to identify basketball and measure the distance from that. OpenCV, Point Cloud, Machine Learning and Deep Learning used. The robot won the 2nd prize at RoboCup Contest in 2015.
