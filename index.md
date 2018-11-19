@@ -68,6 +68,15 @@ __Computer Vision__, in basketball robot, aims to identify basketball and measur
 _ACM/ICPC_<br>
 __ACM__, Learns about fundamental and advanced computer algorithm and data structure. I won two prizes at Sichuan and Shaanxi ACM/ICPC provincial contest
 
+## Skills
+
+- Programing Languages: Python, C/C++, Java, PHP, TeX and HTML(Javascript, CSS)
+- Machine Learning: TensorFlow, Keras, Pytorch, scikit-learn
+- Finite Element Analysis: ANSYS, ABAQUS
+- CAD Software: UG NX, AutoCAD
+- Animation Software: AfterEffects, Premiere, CoreDRAW Graphics, Inkscape
+- Photography
+
 ## Honors & Awards
 
 Northwestern Polytechnical University Graduate Innovation Seed Fund `Shaanxi, 2017`<br>
