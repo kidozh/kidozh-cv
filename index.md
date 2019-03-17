@@ -23,7 +23,7 @@ Pursuing Ph.D admission in 2020 fall
 Xi'an, China (People's Republic of)
 ```
 - M.S. in Aerocraft Manufacturing Engineering, _School of Mechanical Engineering_
-    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,*A+ (Best) at aeronautical and astronautical science and technology subject in MOE rank*
+    + *Project 985*,*Class A in Double First-Class University*
 - Major GPA: 85
 
 ### __Northwestern Polytechnical University__ `2013.9 - 2017.6`
@@ -31,7 +31,7 @@ Xi'an, China (People's Republic of)
 Xi'an, China (People's Republic of)
 ```
 - B.S. in Aerocraft Manufacturing Engineering, _Honors College_
-    + *Project 985*,*Project 211*,*Class A in Double First-Class University*,*A+ (Best) at aeronautical and astronautical science and technology subject in MOE Rank*
+    + *Project 985*,*Class A in Double First-Class University*
 - Major GPA :85
 
 ### __RWTH-Aachen University__ `2016.9 - 2017.4`
@@ -48,6 +48,9 @@ Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated 
 [[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
 [[repo](https://github.com/kidozh/keras_detect_tool_wear)]
 
+## Projects
+Homepage of projects -> [kidozh.com/projects](https://kidozh.com/projects)
+
 ## Experience
 
 ### __Intelligent manufacturing, Key Lab of Contemporary Design and Integrated Manufacturing Technology, Ministry of Education, NPU__  `2017.9 - `
@@ -55,6 +58,7 @@ _Intelligent manufacturing_<br>
 - __Tool wear and Tool's remaining useful life prediction__, in single or multiple manufacturing mode, aims to monitor precise tool wear value by deep learning. Also, a transfer learning is used to migrate among different condition.
 - __Deep learning model visualization__, aims to visualize deep learning (especially CNN) model for better understanding process, rules and principle of them in troubleshooting variety of problems in making part.
 - __Tool wear forecasting__, the first deep learning model to accurately forecast tool wear in the future. And by RNN's extension, forecasting level gets raised.
+- __Digital Twins By GAN__, the first deep conditional generative adversial network to yield machining signal in given condition.
 
 ### __Peter the Great St.Petersburg Polytechnic University__  `2018.1 - 2018.2`
 _Turbomachinery Winter Camp_<br>
@@ -75,7 +79,7 @@ __ACM__, Learns about fundamental and advanced computer algorithm and data struc
 ## Skills
 
 - Programing Languages: Python, C/C++, Java, PHP, TeX and HTML(Javascript, CSS)
-- Machine Learning: TensorFlow, Keras, Pytorch, scikit-learn
+- Machine Learning Framework: TensorFlow, Keras, Pytorch, scikit-learn
 - Finite Element Analysis: ANSYS, ABAQUS
 - CAD Software: UG NX, AutoCAD
 - Animation Software: AfterEffects, Premiere, CoreDRAW Graphics, Inkscape
