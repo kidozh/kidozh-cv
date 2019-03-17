@@ -58,7 +58,7 @@ _Intelligent manufacturing_<br>
 - __Tool wear and Tool's remaining useful life prediction__, in single or multiple manufacturing mode, aims to monitor precise tool wear value by deep learning. Also, a transfer learning is used to migrate among different condition.
 - __Deep learning model visualization__, aims to visualize deep learning (especially CNN) model for better understanding process, rules and principle of them in troubleshooting variety of problems in making part.
 - __Tool wear forecasting__, the first deep learning model to accurately forecast tool wear in the future. And by RNN's extension, forecasting level gets raised.
-- __Digital Twins By GAN__, the first deep conditional generative adversial network to yield machining signal in given condition.
+- __Digital Twins By GAN__, the first deep conditional generative adversarial network to yield machining signal in given condition.
 
 ### __Peter the Great St.Petersburg Polytechnic University__  `2018.1 - 2018.2`
 _Turbomachinery Winter Camp_<br>
