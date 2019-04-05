@@ -48,6 +48,10 @@ Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated 
 [[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
 [[repo](https://github.com/kidozh/keras_detect_tool_wear)]
 
+### [__RESIDUAL CONVOLUTIONAL NEURAL NETWORK-BASED TOOL CONDITION MONITORING MODEL AND ITS VISUALIZATION__]()
+Huibin Sun and __Jiduo Zhang\*__,<br>  _The 48th International Conference on Computers and Industrial Engineering_ <br>
+[[WEBSITE]](https://cie48.com/)
+
 ## Projects
 Homepage of projects -> [kidozh.com/projects](https://kidozh.com/projects)
 
