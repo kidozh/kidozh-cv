@@ -44,12 +44,12 @@ Xi'an, China (People's Republic of)
 ## Publications
 
 ### [__In-process Tool Condition Monitoring Based on Convolution Neural Network__]()
-Dali Cao, Huibin Sun, __Jiduo Zhang\*__, and Rong Mo.<br>  _Computer Integrated Manufacturing Systems_ <br>
+Dali Cao, Huibin Sun, __Jiduo Zhang__, and Rong Mo.<br>  _Computer Integrated Manufacturing Systems_ <br>
 [[PDF](http://cnki.cn-ki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&filename=JSJJ20180913003&dbname=CAPJLAST)]
 [[repo](https://github.com/kidozh/keras_detect_tool_wear)]
 
 ### [__RESIDUAL CONVOLUTIONAL NEURAL NETWORK-BASED TOOL CONDITION MONITORING MODEL AND ITS VISUALIZATION__]()
-Huibin Sun and __Jiduo Zhang\*__,<br>  _The 48th International Conference on Computers and Industrial Engineering_ <br>
+Huibin Sun and __Jiduo Zhang__,<br>  _The 48th International Conference on Computers and Industrial Engineering_ <br>
 [[WEBSITE]](https://cie48.com/)
 
 ## Projects
