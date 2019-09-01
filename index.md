@@ -81,7 +81,7 @@ Homepage of projects -> [kidozh.com/projects](https://kidozh.com/projects)
 
 + Turbine design winter camp of turbomachinery faculty
 
-### RWTH Aachen University __2016__
+### RWTH Aachen University __2016-2017__
 
 + Bolted joint effects in composite material structure at RWTH Aachen University
 
