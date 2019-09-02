@@ -46,7 +46,7 @@ Xi'an, China (People's Republic of)
 ## Publications
 
 ### [__Predicting tool wear in different machining condition using convolutional neural network and transfer learning__]()
-__Jiduo Zhang__; Rong Mo, Huibin Sun. <br>__ The International Journal of Prognostics and Health Management__<br>
+__Jiduo Zhang__; Rong Mo, Huibin Sun. <br>_ The International Journal of Prognostics and Health Management_<br>
 (Special Issue, Accept & contingent on major revisions, Apr 2019).
 
 ### [__In-process Tool Condition Monitoring Based on Convolution Neural Network__]()
@@ -87,8 +87,8 @@ Homepage of projects -> [kidozh.com/projects](https://kidozh.com/projects)
 
 ## Experience
 
-### __Intelligent manufacturing, Key Lab of Contemporary Design and Integrated Manufacturing Technology, Ministry of Education, NPU__  `2017.9 - `
-_Intelligent manufacturing_<br>
+### __Prognostic and Health management, Key Lab of Contemporary Design and Integrated Manufacturing Technology, Ministry of Education, NPU__  `2017.9 - `
+_Tool wear degradation monitoring, forecasting and reconstructing investigation based on deep learning methods_, funded by National Natural Science Foundation of China (No. 51875475)<br>
 - __Tool wear and Tool's remaining useful life prediction__, in single or multiple manufacturing mode, aims to monitor precise tool wear value from signal by deep learning. Also, a transfer learning is used to migrate among different condition.
 - __Deep learning model visualization__, aims to visualize deep learning (especially CNN) model for better understanding process, rules and principle of them in troubleshooting variety of problems in making part.
 - __Tool wear forecasting__, the first deep learning model to accurately forecast tool wear in the future. And by RNN's extension, forecasting level gets raised.
@@ -100,7 +100,7 @@ __Turbomachinery__, in mechanical engineering
 
 ### __Lightweighting Design, RWTH-Aachen__  `2014.9 - 2015.11`
 _SLA_<br>
-__bolts effects in composite material__, bolt's effect in bolted joint by ABAQUS is investigated. Hashin failure criteria is applied.
+__bolts effects in composite material__, bolt's effect in bolted joint by ABAQUS is investigated. Hashin failure criteria is applied and it was funded by China Scholarship Council.
 
 ### __Dance Robot Inovation Club, NPU__  `2014.9 - 2015.11`
 _Computer Vision in Software Department_<br>
